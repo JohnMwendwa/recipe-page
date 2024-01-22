@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/JohnMwendwa/recipe-page)
-- Live Site URL: [live site URL](https://johnmwendwa.github.io/recipe-page/)
+- Solution URL: [https://github.com/JohnMwendwa/recipe-page](https://github.com/JohnMwendwa/recipe-page)
+- Live Site URL: [https://johnmwendwa.github.io/recipe-page/](https://johnmwendwa.github.io/recipe-page/)
 
 ## My process
 
