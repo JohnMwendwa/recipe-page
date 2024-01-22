@@ -58,9 +58,10 @@ main {
   font-weight: 500;
 }
 
-.section h3 {
+.prep__heading {
   color: var(--dark-rasberry);
   margin-bottom: 1rem;
+  font-weight: bold;
 }
 
 ::marker {
@@ -147,7 +148,7 @@ tr:last-child td {
   h2 {
     font-size: 2em;
   }
-  h3 {
+  .prep__heading {
     font-size: 1.2em;
   }
 
