@@ -58,10 +58,14 @@ main {
   font-weight: 500;
 }
 
-.prep__heading {
+section .prep__heading {
   color: var(--dark-rasberry);
+  margin: 0;
   margin-bottom: 1rem;
-  font-weight: bold;
+  font-size: 1.2em;
+  font-weight: 900;
+
+  font-family: "Outfit", sans-serif;
 }
 
 ::marker {
@@ -128,7 +132,7 @@ tr:last-child td {
 
 @media screen and (min-width: 640px) {
   body {
-    padding: 7.5rem;
+    padding: 8rem;
   }
 
   .container {
@@ -147,9 +151,6 @@ tr:last-child td {
   }
   h2 {
     font-size: 2em;
-  }
-  .prep__heading {
-    font-size: 1.2em;
   }
 
   .section__preparation {
